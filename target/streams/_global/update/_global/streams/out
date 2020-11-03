@@ -7,6 +7,11 @@
 [error]   Not found
 [error]   not found: C:\Users\t891199\.ivy2\local\org.apache.spark\spark-sql\2.4.5\ivys\ivy.xml
 [error]   not found: https://repo1.maven.org/maven2/org/apache/spark/spark-sql/2.4.5/spark-sql-2.4.5.pom
+[error] Error downloading org.apache.spark:scala.math.random:2.4.5
+[error]   Not found
+[error]   Not found
+[error]   not found: C:\Users\t891199\.ivy2\local\org.apache.spark\scala.math.random\2.4.5\ivys\ivy.xml
+[error]   not found: https://repo1.maven.org/maven2/org/apache/spark/scala.math.random/2.4.5/scala.math.random-2.4.5.pom
 [error] 	at lmcoursier.CoursierDependencyResolution.unresolvedWarningOrThrow(CoursierDependencyResolution.scala:258)
 [error] 	at lmcoursier.CoursierDependencyResolution.$anonfun$update$38(CoursierDependencyResolution.scala:227)
 [error] 	at scala.util.Either$LeftProjection.map(Either.scala:573)
@@ -42,3 +47,8 @@
 [error]   Not found
 [error]   not found: C:\Users\t891199\.ivy2\local\org.apache.spark\spark-sql\2.4.5\ivys\ivy.xml
 [error]   not found: https://repo1.maven.org/maven2/org/apache/spark/spark-sql/2.4.5/spark-sql-2.4.5.pom
+[error] Error downloading org.apache.spark:scala.math.random:2.4.5
+[error]   Not found
+[error]   Not found
+[error]   not found: C:\Users\t891199\.ivy2\local\org.apache.spark\scala.math.random\2.4.5\ivys\ivy.xml
+[error]   not found: https://repo1.maven.org/maven2/org/apache/spark/scala.math.random/2.4.5/scala.math.random-2.4.5.pom
